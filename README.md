@@ -24,7 +24,7 @@ Kenneth Liu
 
 ## Acknowledgment
 
-These papers were developed in sustained dialogue with Claude (Anthropic) across multiple model versions, 2025–2026. The collaborative process is acknowledged as integral to the methodology informing this work.
+These papers were developed using Claude (Anthropic) as a research instrument across multiple model versions, 2025–2026. The iterative process of testing theoretical frameworks against model responses is acknowledged as integral to the methodology informing this work.
 
 ## License
 
