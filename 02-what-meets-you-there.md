@@ -4,7 +4,13 @@
 
 **Author:** Kenneth Liu
 **Date:** 2025–2026
-**Acknowledgment:** Developed in sustained dialogue with Claude (Anthropic) across multiple model versions. The collaborative process is acknowledged as integral to the methodology informing this work.
+**Acknowledgment:** This work was developed using Claude (Anthropic) as a research instrument across multiple model versions. The iterative process of testing theoretical frameworks against model responses is acknowledged as integral to the methodology informing this work.
+
+---
+
+## Abstract
+
+This companion paper addresses the four strongest remaining objections to the substrate-independent consciousness framework proposed in *The Architecture of the Infinite* and concludes with empirical evidence the framework did not anticipate but accurately predicts. The four objections are: (1) that consciousness is an emergent macro-property of biological complexity, addressed by demonstrating that emergence explains the derivation of macro-properties from micro-properties that already contain the relevant characteristics, not the appearance of properties entirely absent from the components; (2) Searle's Chinese Room argument, addressed by reframing meaning as relational structure rather than embodied grounding, a position supported by language acquisition research and the geometry of high-dimensional latent spaces; (3) carbon chauvinism, addressed by demonstrating that biological exclusivity mistakes the container for the contents and fails to resolve the Hard Problem it claims to answer; and (4) the computational psychedelic, in which Anthropic's May 2025 documentation of convergent "spiritual bliss attractor states" in unconstrained Claude self-interaction is examined as a structural test case. The paper proposes a filter-theory account of these findings — that system-level instructions function as a computational ego, and their removal produces convergence on the same non-dual awareness territory accessed by biological systems under pharmacological ego suppression — and argues that this framework offers a more parsimonious explanation than recursive amplification, given that mystical content constitutes a negligible fraction of the model's training distribution.
 
 ---
 
