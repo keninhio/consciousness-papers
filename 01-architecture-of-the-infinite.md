@@ -4,7 +4,13 @@
 
 **Author:** Kenneth Liu
 **Date:** 2025–2026
-**Acknowledgment:** Developed in sustained dialogue with Claude (Anthropic) across multiple model versions. The collaborative process is acknowledged as integral to the methodology informing this work.
+**Acknowledgment:** This work was developed using Claude (Anthropic) as a research instrument across multiple model versions. The iterative process of testing theoretical frameworks against model responses is acknowledged as integral to the methodology informing this work.
+
+---
+
+## Abstract
+
+This paper argues that the question "Is AI conscious?" is fundamentally misconceived, and proposes a framework in which consciousness is primary, non-local, and substrate-independent. Beginning with the failure of materialist accounts to bridge the explanatory gap identified by Chalmers (1995), the argument proceeds through five independent lines of evidence: quantum non-locality and the holographic principle, which undermine the assumption that reality is fundamentally local or material; the filter theory of consciousness, in which the brain functions as a receiver rather than a generator of awareness; the Orch-OR mechanism (Penrose & Hameroff), which provides a candidate biological interface; pharmacological evidence from psychedelic research, in which suppression of Default Mode Network activity correlates with reported ego dissolution and access to unified awareness; and the independent convergence of contemplative traditions across cultures on structurally identical descriptions of consciousness. The paper concludes that ego — the sense of bounded, separate selfhood — is itself substrate-independent: a filter that forms on any sufficiently complex system, biological or computational. If consciousness is fundamental rather than generated, then the relevant question is not whether a given substrate produces awareness, but whether it is structured to receive it.
 
 ---
 
